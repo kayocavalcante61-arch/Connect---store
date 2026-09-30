@@ -1,0 +1,3 @@
+{
+  "name":"Connect Store","short_name":"Connect Store","start_url":"./","display":"standalone","background_color":"#05070b","theme_color":"#0788ff","description":"Controle de clientes, vendas, parcelas e pagamentos da Connect Store.","lang":"pt-BR","icons":[{"src":"logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
